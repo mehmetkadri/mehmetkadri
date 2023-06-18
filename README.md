@@ -31,7 +31,7 @@ Joined Github **2** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mehmetkadri).
 - 👾 &nbsp; Fun fact: I once analyzed the data of an entire ice cream social 🍦 to determine the perfect flavor combinations!
 - 📫 &nbsp; How to reach me: mehmetgofralilarformal@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/mehmetkadri/mehmetkadri/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/mehmetkadri/mehmetkadri/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
