@@ -49,8 +49,7 @@ Joined Github **2** years ago.
 <code><img height="27" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"></code>
