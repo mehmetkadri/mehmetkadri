@@ -22,7 +22,7 @@ I'm a passionate data scientist and aspiring computer engineer, graduated from M
 
 Joined Github **2** years ago.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mehmetkadri/mehmetkadri/master/gifs/data-science.gif" />
+<img align="right" height="250" width="325" alt="" src="https://raw.githubusercontent.com/mehmetkadri/mehmetkadri/master/gifs/data-science.gif" />
 
 ### Talking about Personal Stuff:
 
